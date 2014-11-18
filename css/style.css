@@ -89,7 +89,7 @@ nav {display:inline-block; z-index:1111; position:relative; float:left;}
 ul.menu {margin:0px 0px 0px 0px; display:inline-block;}
 ul.menu li {float:left; line-height:24px; margin:0px 13px 0px 0px; }
 ul.menu li:hover, ul.menu li.current { background:#fff; }
-ul.menu li a {font-size:16px; line-height:24px; color:#4D227B; font-family: 'PT Sans Narrow', sans-serif; font-weight:bold; display:inline-block; text-transform:uppercase; text-shadow: 1px 1px 1px rgba(0,0,0,0.2); padding:61px 22px 13px 23px; }
+ul.menu li a {font-size:16px; line-height:24px; color:#fff; font-family: 'PT Sans Narrow', sans-serif; font-weight:bold; display:inline-block; text-transform:uppercase; text-shadow: 1px 1px 1px rgba(0,0,0,0.2); padding:61px 22px 13px 23px; }
 ul.menu li a:hover , ul.menu li.current a { color:#000; }
 
 /*********************************content*************************************/
